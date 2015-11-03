@@ -1,0 +1,23 @@
+{
+  "name": "musicJunkie",
+  "version": "1.0.0",
+  "authors": [
+    "molinarikris <kamolinari42@gmail.com>"
+  ],
+  "description": "A streaming app for musicjunkie.mobi",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./app/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "OnsenUI": "onsenui#~1.3.10",
+    "angular-animate": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "angular-touch": "~1.4.6"
+  }
+}
