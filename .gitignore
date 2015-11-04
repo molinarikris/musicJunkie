@@ -3,3 +3,6 @@ node_modules/
 *.keystore
 www/
 app/lib/
+plugins/
+platforms/
+
