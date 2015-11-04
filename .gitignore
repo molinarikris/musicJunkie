@@ -1,3 +1,4 @@
+cordova/
 node_modules/
 *.apk
 *.keystore
